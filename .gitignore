@@ -1,0 +1,5 @@
+*.pyc
+tmp/
+onboard.db
+.idea/
+acquisitor.log
